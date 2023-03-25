@@ -1,0 +1,16 @@
+{
+    "name": "seleda/cookie",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Seleda\\Cookie\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seleda",
+            "email": "p.seleda@gmail.com"
+        }
+    ],
+    "require": {}
+}

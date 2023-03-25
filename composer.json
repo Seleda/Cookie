@@ -1,6 +1,7 @@
 {
     "name": "seleda/cookie",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Seleda\\Cookie\\": "src/"
